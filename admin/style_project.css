@@ -1,0 +1,104 @@
+.wrapper{
+    height: 700px;
+    width: 1520px;
+    background-color:black;
+}
+header{
+    height:190px;
+    width: 1520px;
+    background-color: black;
+}
+section{
+    height: 550px;
+    width: 1520px;
+    
+}
+footer{
+    height: 300 px;
+    width: 1520px;
+    background-color: rgb(7, 0, 0);
+}
+
+.logo img{
+    padding: 20px;
+    padding-left: 100px;
+}
+.logo{
+    float: left;
+     padding-left: 40px;
+}
+li a{
+    
+    font-size: 17px;
+    text-align:center ;
+}
+/*nav{
+    float: right;
+     word-spacing: 30px;
+     padding: 30px;
+}
+nav li {
+    display: inline;
+   line-height: 110px;
+
+}*/
+
+section .sec_img{
+    background-image: url("images/1.jpg");
+    background-size: 100%;
+    height: 550px;                                 
+}
+.box{
+    height: 300px;
+    width:450px;
+ background-color: #151515;
+    margin: 20px auto;
+    opacity: .6;
+    color: white;
+}
+/*----------------------------------student login--------------------------------------------*/
+.login_img{
+    height: 650px;
+    margin-top: 0px;
+    background-image: url("images/3.jpg");
+    background-size: 100%;
+}
+.box1{
+    height: 420px;
+    width:450px;
+ background-color: black;
+    margin: 70px auto;
+    opacity: .7;
+    color: white;
+    padding: 20px;
+}
+form .login{
+    margin:  auto 50px;
+}
+
+input{
+    height: 25px;
+    width: 300px;
+}
+/*----------------------------------------registration form------------------------------*/
+.reg_img{
+    height: 760px;
+    margin-top: 0px;
+    background-image: url("images/4.png");
+    background-size: 100%;
+}
+.box2{
+    height: 640px;
+    width:450px;
+ background-color: black;
+    margin: 70px auto;
+    opacity: .7;
+    color: white;
+    padding: 20px;
+}
+/*-------------------------------feedback-------------------------------------------*/
+section .feed_img{
+    background-image: url("images/66.jpg");
+    background-size: 100%;
+    height: 600px;                                 
+}
